@@ -20,7 +20,7 @@ public class MyTest {
 	String MyWebSite = "https://automationteststore.com/";
 
 	String[] firstNames = { "ahmad", "Khaled", "anas", "omar", "sara", "alaa", "Muna", "jood" ,"Rana"};
-	String[] LastNames = { "Khalil", "mustafa", "hammad", "Kamel", "zain", "odeh" };
+	String[] LastNames = { "Khalil", "mustafa", "hammad", "Kamel", "zain", "odeh","yassen" };
 	String GlobalUserName = "";
 	String GlobalUserNameForTheLogIn = "";
 
